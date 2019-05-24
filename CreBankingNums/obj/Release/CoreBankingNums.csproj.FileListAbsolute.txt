@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Devs\BC DeskTop\CreBankingNums\bin\Release\CoreBankingNums.dll
+C:\Users\Administrator\Desktop\Devs\BC DeskTop\CreBankingNums\bin\Release\CoreBankingNums.pdb
+C:\Users\Administrator\Desktop\Devs\BC DeskTop\CreBankingNums\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Devs\BC DeskTop\CreBankingNums\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\Devs\BC DeskTop\CreBankingNums\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Devs\BC DeskTop\CreBankingNums\obj\Release\CoreBankingNums.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Devs\BC DeskTop\CreBankingNums\obj\Release\CoreBankingNums.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Devs\BC DeskTop\CreBankingNums\obj\Release\CoreBankingNums.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Devs\BC DeskTop\CreBankingNums\obj\Release\CoreBankingNums.dll
+C:\Users\Administrator\Desktop\Devs\BC DeskTop\CreBankingNums\obj\Release\CoreBankingNums.pdb
